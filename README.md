@@ -35,20 +35,20 @@ I'm just a funny programmer.
 ![Nuxt.JS](https://img.shields.io/badge/Nuxt.JS--9cf?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=realxoman&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aliesm-com&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ##  &#x1f4c8; GitHub Stats
-![Realxoman's GitHub stats](https://github-readme-stats.vercel.app/api?username=realxoman&&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+![aliesm-com's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliesm-com&&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realxoman&layout=compact&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliesm-com&layout=compact&show_icons=true&theme=tokyonight)
 
-<!-- [![realxoman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=realxoman)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![aliesm-com's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aliesm-com)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://komarev.com/ghpvc/?username=realxoman&label=Profile%20views&color=0e75b6&style=flat" alt="realxoman" />
+<img src="https://komarev.com/ghpvc/?username=aliesm-com&label=Profile%20views&color=0e75b6&style=flat" alt="aliesm-com" />
 
 
 <!--
-**realxoman/RealXoMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aliesm-com/RealXoMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

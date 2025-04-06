@@ -8,7 +8,7 @@ I'm just a funny programmer.
 
 - 🔭 I’m currently working on [Poultry Inspector](https://github.com/realxoman/PoultryInspector)
 - 🌱 I’m currently learning [PyTorch]([https://fastapi.tiangolo.com/](https://pytorch.org/))
-- 💬 Ask me Everything about Web Development
+- 💬 Ask me Everything about Software Development | MLOps Engineering | Data Engineering
 - 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
 - ⚡ Fun fact: "Abbas Bo Azar" just have only one R
 

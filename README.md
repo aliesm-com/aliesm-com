@@ -25,6 +25,7 @@ I'm just a funny programmer.
 ![ORM](https://img.shields.io/badge/ORM-GORM%20%7C%20SQLAlchemy%20%7C%20Tortoise%20%7C%20Peewee%20%7C%20Prisma-darkblue?logo=prisma&logoColor=white)
 
 ![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20SQLite%20%7C%20MongoDB%20%7C%20Redis%20%7C%20Elastic%20%7C%20ClickHouse%20%7C%20InfluxDB-red?logo=postgresql&logoColor=white)
+
 ![Auth](https://img.shields.io/badge/Auth-JWT%20%7C%20OAuth2%20%7C%20Authlib-darkred?logo=auth0&logoColor=white)
 ![Serialization](https://img.shields.io/badge/Serialization-Pydantic%20%7C%20Marshmallow-darkviolet?logo=json&logoColor=white)
 ![Tasks_Queues](https://img.shields.io/badge/Tasks%20%26%20Queues-Celery%20%7C%20Redis%20%7C%20RabbitMQ%20%7C%20Kafka-444444?logo=rabbitmq&logoColor=white)

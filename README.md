@@ -21,8 +21,8 @@ I'm just a funny programmer.
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)
 ![Languages](https://img.shields.io/badge/languages-python%20%7C%20go%20%7C%20php%20%7C%20rust-blue)
 
-![WebFrameworks](https://img.shields.io/badge/web_frameworks-django%20%7C%20fastapi%20%7C%20flask%20%7C%20gin%20%7C%20echo-bluegreen)
-![ORM](https://img.shields.io/badge/ORM-gorm%20%7C%20sqlalchemy%20%7C%20tortoise%20%7C%20peewee%20%7C%20prisma-yellowblue)
+![WebFrameworks](https://img.shields.io/badge/web_frameworks-django%20%7C%20fastapi%20%7C%20flask%20%7C%20gin%20%7C%20echo-darkgreen)
+![ORM](https://img.shields.io/badge/ORM-gorm%20%7C%20sqlalchemy%20%7C%20tortoise%20%7C%20peewee%20%7C%20prisma-darkblue)
 
 ![Databases](https://img.shields.io/badge/databases-postgresql%20%7C%20mysql%20%7C%20sqlite%20%7C%20mongodb%20%7C%20redis%20%7C%20elasticsearch%20%7C%20clickhouse%20%7C%20influxdb-orange)
 

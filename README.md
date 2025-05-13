@@ -18,17 +18,17 @@ I'm just a funny programmer.
 
 ## 💻 Technologies & Tools
 
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)
-![Languages](https://img.shields.io/badge/languages-python%20%7C%20go%20%7C%20php%20%7C%20rust-blue)
+![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-dark)
+![Languages](https://img.shields.io/badge/languages-python%20%7C%20go%20%7C%20php%20%7C%20rust-darkorange)
 
 ![WebFrameworks](https://img.shields.io/badge/web_frameworks-django%20%7C%20fastapi%20%7C%20flask%20%7C%20gin%20%7C%20echo-darkgreen)
 ![ORM](https://img.shields.io/badge/ORM-gorm%20%7C%20sqlalchemy%20%7C%20tortoise%20%7C%20peewee%20%7C%20prisma-darkblue)
 
-![Databases](https://img.shields.io/badge/databases-postgresql%20%7C%20mysql%20%7C%20sqlite%20%7C%20mongodb%20%7C%20redis%20%7C%20elasticsearch%20%7C%20clickhouse%20%7C%20influxdb-orange)
+![Databases](https://img.shields.io/badge/databases-postgresql%20%7C%20mysql%20%7C%20sqlite%20%7C%20mongodb%20%7C%20redis%20%7C%20elasticsearch%20%7C%20clickhouse%20%7C%20influxdb-red)
 
-![Auth](https://img.shields.io/badge/authentication-jwt%20%7C%20oauth2%20%7C%20authlib-lightblue)
-![Serialization](https://img.shields.io/badge/serialization-pydantic%20%7C%20marshmallow-ff69b4)
-![Tasks_Queues](https://img.shields.io/badge/tasks%20%26%20queues-celery%20%7C%20redis%20%7C%20rabbitmq%20%7C%20kafka-lightgreen)
+![Auth](https://img.shields.io/badge/authentication-jwt%20%7C%20oauth2%20%7C%20authlib-darkred)
+![Serialization](https://img.shields.io/badge/serialization-pydantic%20%7C%20marshmallow-darkyellow)
+![Tasks_Queues](https://img.shields.io/badge/tasks%20%26%20queues-celery%20%7C%20redis%20%7C%20rabbitmq%20%7C%20kafka-darkgray)
 
 ![Caching](https://img.shields.io/badge/caching-redis%20%7C%20memcached-yellow)
 ![Testing](https://img.shields.io/badge/testing-pytest%20%7C%20unittest%20%7C%20testcontainers-red)

@@ -38,7 +38,7 @@ I'm just a funny programmer.
 ![ComputerVision](https://img.shields.io/badge/computer_vision-opencv%20%7C%20spacy-lightgray)
 
 ![DevOps](https://img.shields.io/badge/devops-docker%20%7C%20compose%20%7C%20github_actions%20%7C%20jenkins%20%7C%20nginx%20%7C%20traefik%20%7C%20caddy%20%7C%20haproxy-lightblue)
-![AdvancedDevOps](https://img.shields.io/badge/advanced_devops-nexus%20%7C%20docker_registry%20%7C%20ngrok%20%7C%20make%20%7C%20tmux%20%7C%20htop-darkorange)
+![AdvancedDevOps](https://img.shields.io/badge/Misc_devops_tools-nexus%20%7C%20docker_registry%20%7C%20ngrok%20%7C%20make%20%7C%20tmux%20%7C%20htop-darkorange)
 
 ---
 

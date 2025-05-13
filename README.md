@@ -30,12 +30,12 @@ I'm just a funny programmer.
 ![Serialization](https://img.shields.io/badge/serialization-pydantic%20%7C%20marshmallow-darkyellow)
 ![Tasks_Queues](https://img.shields.io/badge/tasks%20%26%20queues-celery%20%7C%20redis%20%7C%20rabbitmq%20%7C%20kafka-darkgray)
 
-![Caching](https://img.shields.io/badge/caching-redis%20%7C%20memcached-yellow)
+![Caching](https://img.shields.io/badge/caching-redis%20%7C%20memcached-dark)
 ![Testing](https://img.shields.io/badge/testing-pytest%20%7C%20unittest%20%7C%20testcontainers-red)
-![Async](https://img.shields.io/badge/async-asyncio%20%7C%20trio%20%7C%20starlette-blueviolet)
+![Async](https://img.shields.io/badge/async-asyncio%20%7C%20trio%20%7C%20starlette-violet)
 
-![AI_ML](https://img.shields.io/badge/AI%20%26%20ML-numpy%20%7C%20pandas%20%7C%20scikit_learn%20%7C%20pytorch%20%7C%20tensorflow%20%7C%20transformers%20%7C%20mlflow-lightcoral)
-![ComputerVision](https://img.shields.io/badge/computer_vision-opencv%20%7C%20spacy-lightgray)
+![AI_ML](https://img.shields.io/badge/AI%20%26%20ML-numpy%20%7C%20pandas%20%7C%20scikit_learn%20%7C%20pytorch%20%7C%20tensorflow%20%7C%20transformers%20%7C%20mlflow-coral)
+![ComputerVision](https://img.shields.io/badge/computer_vision-opencv%20%7C%20spacy-gray)
 
 ![DevOps](https://img.shields.io/badge/devops-docker%20%7C%20compose%20%7C%20github_actions%20%7C%20jenkins%20%7C%20nginx%20%7C%20traefik%20%7C%20caddy%20%7C%20haproxy-lightblue)
 ![AdvancedDevOps](https://img.shields.io/badge/Misc_devops_tools-nexus%20%7C%20docker_registry%20%7C%20ngrok%20%7C%20make%20%7C%20tmux%20%7C%20htop-darkorange)

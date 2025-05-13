@@ -28,9 +28,9 @@ I'm just a funny programmer.
 
 ![Auth](https://img.shields.io/badge/authentication-jwt%20%7C%20oauth2%20%7C%20authlib-darkred)
 ![Serialization](https://img.shields.io/badge/serialization-pydantic%20%7C%20marshmallow-darkviolet)
-![Tasks_Queues](https://img.shields.io/badge/tasks%20%26%20queues-celery%20%7C%20redis%20%7C%20rabbitmq%20%7C%20kafka-darkgray)
+![Tasks_Queues](https://img.shields.io/badge/tasks%20%26%20queues-celery%20%7C%20redis%20%7C%20rabbitmq%20%7C%20kafka-444444)
 
-![Caching](https://img.shields.io/badge/caching-redis%20%7C%20memcached-darkgray)
+![Caching](https://img.shields.io/badge/caching-redis%20%7C%20memcached-333333)
 ![Testing](https://img.shields.io/badge/testing-pytest%20%7C%20unittest%20%7C%20testcontainers-red)
 ![Async](https://img.shields.io/badge/async-asyncio%20%7C%20trio%20%7C%20starlette-violet)
 

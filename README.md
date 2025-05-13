@@ -18,27 +18,26 @@ I'm just a funny programmer.
 
 ## 💻 Technologies & Tools
 
-![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-black)
-![Languages](https://img.shields.io/badge/languages-python%20%7C%20go%20%7C%20php%20%7C%20rust-darkorange)
+![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-black?logo=linux)
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Go%20%7C%20PHP%20%7C%20Rust-darkorange?logo=codewars)
 
-![WebFrameworks](https://img.shields.io/badge/web_frameworks-django%20%7C%20fastapi%20%7C%20flask%20%7C%20gin%20%7C%20echo-darkgreen)
-![ORM](https://img.shields.io/badge/ORM-gorm%20%7C%20sqlalchemy%20%7C%20tortoise%20%7C%20peewee%20%7C%20prisma-darkblue)
+![WebFrameworks](https://img.shields.io/badge/Web_Frameworks-Django%20%7C%20FastAPI%20%7C%20Flask%20%7C%20Gin%20%7C%20Echo-darkgreen?logo=django)
+![ORM](https://img.shields.io/badge/ORM-GORM%20%7C%20SQLAlchemy%20%7C%20Tortoise%20%7C%20Peewee%20%7C%20Prisma-darkblue?logo=prisma)
 
-![Databases](https://img.shields.io/badge/databases-postgresql%20%7C%20mysql%20%7C%20sqlite%20%7C%20mongodb%20%7C%20redis%20%7C%20elasticsearch%20%7C%20clickhouse%20%7C%20influxdb-red)
+![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20SQLite%20%7C%20MongoDB%20%7C%20Redis%20%7C%20Elastic%20%7C%20ClickHouse%20%7C%20InfluxDB-red?logo=postgresql)
+![Auth](https://img.shields.io/badge/Auth-JWT%20%7C%20OAuth2%20%7C%20Authlib-darkred?logo=auth0)
+![Serialization](https://img.shields.io/badge/Serialization-Pydantic%20%7C%20Marshmallow-darkviolet?logo=json)
+![Tasks_Queues](https://img.shields.io/badge/Tasks%20%26%20Queues-Celery%20%7C%20Redis%20%7C%20RabbitMQ%20%7C%20Kafka-444444?logo=rabbitmq)
 
-![Auth](https://img.shields.io/badge/authentication-jwt%20%7C%20oauth2%20%7C%20authlib-darkred)
-![Serialization](https://img.shields.io/badge/serialization-pydantic%20%7C%20marshmallow-darkviolet)
-![Tasks_Queues](https://img.shields.io/badge/tasks%20%26%20queues-celery%20%7C%20redis%20%7C%20rabbitmq%20%7C%20kafka-444444)
+![Caching](https://img.shields.io/badge/Caching-Redis%20%7C%20Memcached-333333?logo=redis)
+![Testing](https://img.shields.io/badge/Testing-Pytest%20%7C%20Unittest%20%7C%20Testcontainers-red?logo=pytest)
+![Async](https://img.shields.io/badge/Async-AsyncIO%20%7C%20Trio%20%7C%20Starlette-violet?logo=python)
 
-![Caching](https://img.shields.io/badge/caching-redis%20%7C%20memcached-333333)
-![Testing](https://img.shields.io/badge/testing-pytest%20%7C%20unittest%20%7C%20testcontainers-red)
-![Async](https://img.shields.io/badge/async-asyncio%20%7C%20trio%20%7C%20starlette-violet)
+![AI_ML](https://img.shields.io/badge/AI%20%26%20ML-Numpy%20%7C%20Pandas%20%7C%20ScikitLearn%20%7C%20PyTorch%20%7C%20TensorFlow%20%7C%20Transformers%20%7C%20MLflow-coral?logo=pytorch)
+![ComputerVision](https://img.shields.io/badge/Computer_Vision-OpenCV%20%7C%20spaCy-gray?logo=opencv)
 
-![AI_ML](https://img.shields.io/badge/AI%20%26%20ML-numpy%20%7C%20pandas%20%7C%20scikit_learn%20%7C%20pytorch%20%7C%20tensorflow%20%7C%20transformers%20%7C%20mlflow-coral)
-![ComputerVision](https://img.shields.io/badge/computer_vision-opencv%20%7C%20spacy-gray)
-
-![DevOps](https://img.shields.io/badge/devops-docker%20%7C%20compose%20%7C%20github_actions%20%7C%20jenkins%20%7C%20nginx%20%7C%20traefik%20%7C%20caddy%20%7C%20haproxy-lightblue)
-![AdvancedDevOps](https://img.shields.io/badge/Misc_devops_tools-nexus%20%7C%20docker_registry%20%7C%20ngrok%20%7C%20make%20%7C%20tmux%20%7C%20htop-darkorange)
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Compose%20%7C%20GitHub_Actions%20%7C%20Jenkins%20%7C%20Nginx%20%7C%20Traefik%20%7C%20Caddy%20%7C%20HAProxy-lightblue?logo=docker)
+![AdvancedDevOps](https://img.shields.io/badge/Misc_DevOps_Tools-Nexus%20%7C%20DockerRegistry%20%7C%20Ngrok%20%7C%20Make%20%7C%20tmux%20%7C%20htop-darkorange?logo=gnu-bash)
 
 ---
 

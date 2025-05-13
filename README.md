@@ -122,6 +122,8 @@ I'm just a funny programmer.
 ![Jupyter](https://img.shields.io/badge/Jupyter--9cf?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode--9cf?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![Development Tools](https://img.shields.io/badge/Development%20Tools-Git%20%7C%20Github%20%7C%20Jupyterb%20%7C%20VSCode-lightgrey)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aliesm-com&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 

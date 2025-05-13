@@ -17,7 +17,6 @@ I'm just a funny programmer.
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hi@aliesm.com)
 
 ## 💻 Technologies & Tools
----
 
 ### 🧠 Backend Frameworks & Related Tools
 
@@ -35,7 +34,6 @@ I'm just a funny programmer.
 ![Gin](https://img.shields.io/badge/Gin--9cf?style=for-the-badge&logo=go&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo--9cf?style=for-the-badge&logo=go&logoColor=white)
 
----
 
 #### ORM & Database Abstraction
 ![GORM](https://img.shields.io/badge/GORM--9cf?style=for-the-badge&logo=go&logoColor=white)
@@ -43,8 +41,6 @@ I'm just a funny programmer.
 ![Tortoise ORM](https://img.shields.io/badge/Tortoise--ORM--9cf?style=for-the-badge&logo=python&logoColor=white)
 ![Peewee](https://img.shields.io/badge/Peewee--9cf?style=for-the-badge&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma--9cf?style=for-the-badge&logo=prisma&logoColor=white)
-
----
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL--9cf?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,20 +52,14 @@ I'm just a funny programmer.
 ![ClickHouse](https://img.shields.io/badge/ClickHouse--9cf?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB--9cf?style=for-the-badge&logo=influxdb&logoColor=white)
 
----
-
 #### Authentication & Security
 ![OAuth2](https://img.shields.io/badge/OAuth2--9cf?style=for-the-badge&logo=oauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT--9cf?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Authlib](https://img.shields.io/badge/Authlib--9cf?style=for-the-badge&logo=python&logoColor=white)
 
----
-
 #### Serialization / API
 ![Pydantic](https://img.shields.io/badge/Pydantic--9cf?style=for-the-badge&logo=python&logoColor=white)
 ![Marshmallow](https://img.shields.io/badge/Marshmallow--9cf?style=for-the-badge&logo=python&logoColor=white)
-
----
 
 #### Background Tasks / Message Queues
 ![Celery](https://img.shields.io/badge/Celery--9cf?style=for-the-badge&logo=celery&logoColor=white)
@@ -77,20 +67,14 @@ I'm just a funny programmer.
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ--9cf?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka--9cf?style=for-the-badge&logo=apachekafka&logoColor=white)
 
----
-
 #### Caching Systems
 ![Redis](https://img.shields.io/badge/Redis--Cache--9cf?style=for-the-badge&logo=redis&logoColor=white)
 ![Memcached](https://img.shields.io/badge/Memcached--9cf?style=for-the-badge&logo=memcached&logoColor=white)
-
----
 
 #### Testing Tools
 ![Pytest](https://img.shields.io/badge/Pytest--9cf?style=for-the-badge&logo=python&logoColor=white)
 ![Unittest](https://img.shields.io/badge/Unittest--9cf?style=for-the-badge&logo=python&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers--9cf?style=for-the-badge&logo=docker&logoColor=white)
-
----
 
 #### Async / Event Systems
 ![AsyncIO](https://img.shields.io/badge/AsyncIO--9cf?style=for-the-badge&logo=python&logoColor=white)
@@ -130,9 +114,7 @@ I'm just a funny programmer.
 ### 💻 Operating Systems & Tools
 
 ### Operating Systems
-![MacOS](https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux--9cf?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows--9cf?style=for-the-badge&logo=windows&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey)
 
 #### Development Tools
 ![Git](https://img.shields.io/badge/Git--9cf?style=for-the-badge&logo=git&logoColor=white)

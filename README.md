@@ -23,9 +23,9 @@ I'm just a funny programmer.
 ## 💻 Technologies & Tools
 
 ![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-black?logo=linux&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Go%20%7C%20PHP%20%7C%20Rust-darkorange?logo=codewars&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Go%20%7C%20PHP%20%7C%20Rust%20%7C%20PHP-darkorange?logo=codewars&logoColor=white)
 
-![WebFrameworks](https://img.shields.io/badge/Web_Frameworks-Django%20%7C%20FastAPI%20%7C%20Flask%20%7C%20Gin%20%7C%20Echo-darkgreen?logo=django&logoColor=white)
+![WebFrameworks](https://img.shields.io/badge/Web_Frameworks-Django%20%7C%20FastAPI%20%7C%20Flask%20%7C%20Gin%20%7C%20Echo%20%7C%20Laravel-darkgreen?logo=django&logoColor=white)
 ![ORM](https://img.shields.io/badge/ORM-GORM%20%7C%20SQLAlchemy%20%7C%20Tortoise%20%7C%20Peewee%20%7C%20Prisma-darkblue?logo=prisma&logoColor=white)
 
 ![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20SQLite%20%7C%20MongoDB%20%7C%20Redis%20%7C%20Elastic%20%7C%20ClickHouse%20%7C%20InfluxDB-red?logo=postgresql&logoColor=white)

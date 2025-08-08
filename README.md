@@ -10,8 +10,8 @@ Aha About Me things..
 I'm just a funny programmer.
 
 
-- 🔭 I’m currently working on [Poultry Inspector](https://github.com/realxoman/PoultryInspector)
-- 🌱 I’m currently learning [PyTorch]([https://fastapi.tiangolo.com/](https://pytorch.org/))
+- 🔭 I’m currently working on [BaxAuto](https://github.com/aliesm-com/BaxAuto)
+- 🌱 I’m currently learning [LangChain](https://python.langchain.com/docs/introduction/)
 - 💬 Ask me Everything about Software Development | MLOps Engineering | Data Engineering
 - 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
 - ⚡ Fun fact: "Abbas Bo Azar" just have only one R

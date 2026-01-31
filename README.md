@@ -43,12 +43,3 @@ I'm just a funny programmer.
 
 ![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Compose%20%7C%20GitHub_Actions%20%7C%20Jenkins%20%7C%20Nginx%20%7C%20Traefik%20%7C%20Caddy%20%7C%20HAProxy-lightblue?logo=docker&logoColor=white)
 ![AdvancedDevOps](https://img.shields.io/badge/Misc_DevOps_Tools-Nexus%20%7C%20DockerRegistry%20%7C%20Ngrok%20%7C%20Make%20%7C%20tmux%20%7C%20htop-darkorange?logo=gnu-bash&logoColor=white)
-
-
----
-
-
-##  &#x1f4c8; GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=aliesm-com&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
-![aliesm-com's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliesm-com&&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliesm-com&layout=compact&show_icons=true&theme=tokyonight)

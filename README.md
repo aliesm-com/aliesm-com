@@ -2,8 +2,8 @@
 
 <div align="center">
 
-# Hi Guys 👋
-I’m Ali.
+# Hey there, I’m Ali ⚡
+I build clean systems and ship fast.
 
 [![Website](https://img.shields.io/badge/Website-aliesm.com-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aliesm.com)
 [![Gist](https://img.shields.io/badge/Gist-aliesm--com-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/aliesm-com)
@@ -15,7 +15,7 @@ I’m Ali.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=140&section=footer)
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3&section=header)
 
 ## ✨ About Me
 
@@ -27,7 +27,7 @@ I’m Ali.
 | 📫 Contact | [hi[at]aliesm[dot]com](mailto:hi@aliesm.com) |
 | ⚡ Fun fact | "Abbas Bo Azar" just have only one R |
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3&section=header)
 
 ## 🚀 Featured Projects
 
@@ -37,7 +37,7 @@ I’m Ali.
 | [RapidHLS](https://github.com/aliesm-com/RapidHLS) | HLS workflow tooling | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/RapidHLS?label=last%20update&style=for-the-badge) |
 | [perfometrics](https://github.com/aliesm-com/perfometrics) | Performance metrics toolkit | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/perfometrics?label=last%20update&style=for-the-badge) |
 
----
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3&section=header)
 
 ## 💻 Technologies & Tools
 
@@ -69,3 +69,6 @@ I’m Ali.
 ![DevOps Tools](https://img.shields.io/badge/Misc%20Tools-Nexus%20%7C%20DockerRegistry%20%7C%20Ngrok%20%7C%20Make%20%7C%20tmux%20%7C%20htop-ef6c00?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=140&section=footer)

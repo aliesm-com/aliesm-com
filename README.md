@@ -37,24 +37,31 @@ I’m Ali.
 
 ## 💻 Technologies & Tools
 
-![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-black?logo=linux&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Go%20%7C%20PHP%20%7C%20Rust%20%7C%20JavaScript-darkorange?logo=codewars&logoColor=white)
+<div align="center">
 
-![WebFrameworks](https://img.shields.io/badge/Web_Frameworks-Django%20%7C%20FastAPI%20%7C%20Flask%20%7C%20Gin%20%7C%20Echo%20%7C%20Laravel-darkgreen?logo=django&logoColor=white)
-![ORM](https://img.shields.io/badge/ORM-GORM%20%7C%20SQLAlchemy%20%7C%20Tortoise%20%7C%20Peewee%20%7C%20Prisma-darkblue?logo=prisma&logoColor=white)
+### 🧰 Core
+![OS](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Go%20%7C%20PHP%20%7C%20Rust%20%7C%20JavaScript-ff8c00?style=for-the-badge&logo=codewars&logoColor=white)
 
-![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20SQLite%20%7C%20MongoDB%20%7C%20Redis%20%7C%20Elastic%20%7C%20ClickHouse%20%7C%20InfluxDB-red?logo=postgresql&logoColor=white)
+### 🌐 Backend
+![Web Frameworks](https://img.shields.io/badge/Web%20Frameworks-Django%20%7C%20FastAPI%20%7C%20Flask%20%7C%20Gin%20%7C%20Echo%20%7C%20Laravel-1b7f5a?style=for-the-badge&logo=django&logoColor=white)
+![ORM](https://img.shields.io/badge/ORM-GORM%20%7C%20SQLAlchemy%20%7C%20Tortoise%20%7C%20Peewee%20%7C%20Prisma-2f5fdd?style=for-the-badge&logo=prisma&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20SQLite%20%7C%20MongoDB%20%7C%20Redis%20%7C%20Elastic%20%7C%20ClickHouse%20%7C%20InfluxDB-c62828?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Auth](https://img.shields.io/badge/Auth-JWT%20%7C%20OAuth2%20%7C%20Authlib-darkred?logo=auth0&logoColor=white)
-![Serialization](https://img.shields.io/badge/Serialization-Pydantic%20%7C%20Marshmallow-darkviolet?logo=json&logoColor=white)
-![Tasks_Queues](https://img.shields.io/badge/Tasks%20%26%20Queues-Celery%20%7C%20Redis%20%7C%20RabbitMQ%20%7C%20Kafka-444444?logo=rabbitmq&logoColor=white)
+### 🔐 API & Services
+![Auth](https://img.shields.io/badge/Auth-JWT%20%7C%20OAuth2%20%7C%20Authlib-8e0000?style=for-the-badge&logo=auth0&logoColor=white)
+![Serialization](https://img.shields.io/badge/Serialization-Pydantic%20%7C%20Marshmallow-6a1b9a?style=for-the-badge&logo=json&logoColor=white)
+![Queues](https://img.shields.io/badge/Tasks%20%26%20Queues-Celery%20%7C%20Redis%20%7C%20RabbitMQ%20%7C%20Kafka-424242?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Caching](https://img.shields.io/badge/Caching-Redis%20%7C%20Memcached-37474f?style=for-the-badge&logo=redis&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-Pytest%20%7C%20Unittest%20%7C%20Testcontainers-d32f2f?style=for-the-badge&logo=pytest&logoColor=white)
+![Async](https://img.shields.io/badge/Async-AsyncIO%20%7C%20Trio%20%7C%20Starlette-7b1fa2?style=for-the-badge&logo=python&logoColor=white)
 
-![Caching](https://img.shields.io/badge/Caching-Redis%20%7C%20Memcached-333333?logo=redis&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-Pytest%20%7C%20Unittest%20%7C%20Testcontainers-red?logo=pytest&logoColor=white)
-![Async](https://img.shields.io/badge/Async-AsyncIO%20%7C%20Trio%20%7C%20Starlette-violet?logo=python&logoColor=white)
+### 🤖 AI & Data
+![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-Numpy%20%7C%20Pandas%20%7C%20ScikitLearn%20%7C%20PyTorch%20%7C%20TensorFlow%20%7C%20Transformers%20%7C%20MLflow-ff6f00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20spaCy-455a64?style=for-the-badge&logo=opencv&logoColor=white)
 
-![AI_ML](https://img.shields.io/badge/AI%20%26%20ML-Numpy%20%7C%20Pandas%20%7C%20ScikitLearn%20%7C%20PyTorch%20%7C%20TensorFlow%20%7C%20Transformers%20%7C%20MLflow-coral?logo=pytorch&logoColor=white)
-![ComputerVision](https://img.shields.io/badge/Computer_Vision-OpenCV%20%7C%20spaCy-gray?logo=opencv&logoColor=white)
+### ⚙️ DevOps
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Compose%20%7C%20GitHub%20Actions%20%7C%20Jenkins%20%7C%20Nginx%20%7C%20Traefik%20%7C%20Caddy%20%7C%20HAProxy-42a5f5?style=for-the-badge&logo=docker&logoColor=white)
+![DevOps Tools](https://img.shields.io/badge/Misc%20Tools-Nexus%20%7C%20DockerRegistry%20%7C%20Ngrok%20%7C%20Make%20%7C%20tmux%20%7C%20htop-ef6c00?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Compose%20%7C%20GitHub_Actions%20%7C%20Jenkins%20%7C%20Nginx%20%7C%20Traefik%20%7C%20Caddy%20%7C%20HAProxy-lightblue?logo=docker&logoColor=white)
-![AdvancedDevOps](https://img.shields.io/badge/Misc_DevOps_Tools-Nexus%20%7C%20DockerRegistry%20%7C%20Ngrok%20%7C%20Make%20%7C%20tmux%20%7C%20htop-darkorange?logo=gnu-bash&logoColor=white)
+</div>

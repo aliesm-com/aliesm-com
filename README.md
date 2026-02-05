@@ -1,24 +1,36 @@
+<div align="center">
+
 # Hi Guys 👋
-I'm Ali. 
+I’m Ali.
 
-[My Perosnal Website](https://aliesm.com)
+[![Website](https://img.shields.io/badge/Website-aliesm.com-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aliesm.com)
+[![Gist](https://img.shields.io/badge/Gist-aliesm--com-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/aliesm-com)
+[![Email](https://img.shields.io/badge/Email-hi%40aliesm.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@aliesm.com)
 
-[See My Gist](https://gist.github.com/aliesm-com)
+<p>Funny programmer, serious about clean software.</p>
 
-Aha About Me things..
+</div>
 
-I'm just a funny programmer.
+---
 
-
+## ✨ About Me
 - 🔭 I’m currently working on [BaxAuto](https://github.com/aliesm-com/BaxAuto)
 - 🌱 I’m currently learning [LangChain](https://python.langchain.com/docs/introduction/)
-- 💬 Ask me Everything about Software Development | MLOps Engineering | Data Engineering
+- 💬 Ask me about Software Development, MLOps Engineering, and Data Engineering
 - 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
 - ⚡ Fun fact: "Abbas Bo Azar" just have only one R
 
+---
 
-## ⛱ Social Networks
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hi@aliesm.com)
+## 🚀 Featured Projects
+
+| Project | Description | Last Update |
+|---|---|---|
+| [BaxAuto](https://github.com/aliesm-com/BaxAuto) | Automation helpers and utilities | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/BaxAuto?label=last%20update&style=for-the-badge) |
+| [RapidHLS](https://github.com/aliesm-com/RapidHLS) | HLS workflow tooling | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/RapidHLS?label=last%20update&style=for-the-badge) |
+| [perfometrics](https://github.com/aliesm-com/perfometrics) | Performance metrics toolkit | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/perfometrics?label=last%20update&style=for-the-badge) |
+
+---
 
 ## 💻 Technologies & Tools
 

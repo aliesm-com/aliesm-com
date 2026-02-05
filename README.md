@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Ali%20ESM&fontSize=48&fontColor=ffffff&animation=fadeIn)
+
 <div align="center">
 
 # Hi Guys 👋
@@ -10,6 +12,8 @@ I’m Ali.
 <p>Funny programmer, serious about clean software.</p>
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=140&section=footer)
 
 ---
 

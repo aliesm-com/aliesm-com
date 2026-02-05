@@ -14,11 +14,14 @@ I’m Ali.
 ---
 
 ## ✨ About Me
-- 🔭 I’m currently working on [BaxAuto](https://github.com/aliesm-com/BaxAuto)
-- 🌱 I’m currently learning [LangChain](https://python.langchain.com/docs/introduction/)
-- 💬 Ask me about Software Development, MLOps Engineering, and Data Engineering
-- 📫 How to reach me: [hi[at]aliesm[dot]com](mailto:hi@aliesm.com)
-- ⚡ Fun fact: "Abbas Bo Azar" just have only one R
+
+| | |
+|---|---|
+| 🔭 Building | [BaxAuto](https://github.com/aliesm-com/BaxAuto) |
+| 🌱 Learning | [LangChain](https://python.langchain.com/docs/introduction/) |
+| 💬 Topics | ![Software Development](https://img.shields.io/badge/Software%20Development-222?style=for-the-badge) ![MLOps Engineering](https://img.shields.io/badge/MLOps%20Engineering-1f6feb?style=for-the-badge) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0e8a16?style=for-the-badge) |
+| 📫 Contact | [hi[at]aliesm[dot]com](mailto:hi@aliesm.com) |
+| ⚡ Fun fact | "Abbas Bo Azar" just have only one R |
 
 ---
 

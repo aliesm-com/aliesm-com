@@ -31,11 +31,11 @@ I build clean systems and ship fast.
 
 ## 🚀 Featured Projects
 
-| Project | Description | Last Update |
-|---|---|---|
-| [![BaxAuto](https://img.shields.io/badge/BaxAuto-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliesm-com/BaxAuto) | Automation helpers and utilities | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/BaxAuto?label=last%20update&style=for-the-badge) |
-| [![RapidHLS](https://img.shields.io/badge/RapidHLS-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliesm-com/RapidHLS) | HLS workflow tooling | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/RapidHLS?label=last%20update&style=for-the-badge) |
-| [![perfometrics](https://img.shields.io/badge/perfometrics-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliesm-com/perfometrics) | Performance metrics toolkit | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/perfometrics?label=last%20update&style=for-the-badge) |
+| Project | Description | Downloads / Links | Last Update |
+|---|---|---|---|
+| [![BaxAuto](https://img.shields.io/badge/BaxAuto-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliesm-com/BaxAuto) | Automation helpers and utilities | — | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/BaxAuto?label=last%20update&style=for-the-badge) |
+| [![RapidHLS](https://img.shields.io/badge/RapidHLS-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliesm-com/RapidHLS) | HLS workflow tooling | [Releases (Windows)](https://github.com/aliesm-com/RapidHLS/releases/tag/v1.0.0) | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/RapidHLS?label=last%20update&style=for-the-badge) |
+| [![perfometrics](https://img.shields.io/badge/perfometrics-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliesm-com/perfometrics) | Performance metrics toolkit | [PyPI](https://pypi.org/project/perfometrics/) | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/perfometrics?label=last%20update&style=for-the-badge) |
 
 ![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=100&section=footer)
 ![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:eab308,100:ca8a04&height=100&section=header)

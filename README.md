@@ -14,7 +14,6 @@ I build clean systems and ship fast.
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=140&section=footer)
-
 ![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=100&section=header)
 
 ## ✨ About Me
@@ -27,9 +26,8 @@ I build clean systems and ship fast.
 | 📫 Contact | [hi[at]aliesm[dot]com](mailto:hi@aliesm.com) |
 | ⚡ Fun fact | "Abbas Bo Azar" just have only one R |
 
-![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=100&section=footer)
-
-![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:ec4899&height=100&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:22c55e&height=100&section=footer)
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:ea580c,100:f97316&height=100&section=header)
 
 ## 🚀 Featured Projects
 
@@ -39,8 +37,7 @@ I build clean systems and ship fast.
 | [RapidHLS](https://github.com/aliesm-com/RapidHLS) | HLS workflow tooling | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/RapidHLS?label=last%20update&style=for-the-badge) |
 | [perfometrics](https://github.com/aliesm-com/perfometrics) | Performance metrics toolkit | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/perfometrics?label=last%20update&style=for-the-badge) |
 
-![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0ea5e9&height=100&section=footer)
-
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=100&section=footer)
 ![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:eab308,100:ca8a04&height=100&section=header)
 
 ## 💻 Technologies & Tools
@@ -75,4 +72,4 @@ I build clean systems and ship fast.
 </div>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=140&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ca8a04,100:eab308&height=140&section=footer)

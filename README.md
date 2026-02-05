@@ -15,7 +15,7 @@ I build clean systems and ship fast.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=140&section=footer)
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=100&section=footer)
 
 ## ✨ About Me
 
@@ -27,7 +27,7 @@ I build clean systems and ship fast.
 | 📫 Contact | [hi[at]aliesm[dot]com](mailto:hi@aliesm.com) |
 | ⚡ Fun fact | "Abbas Bo Azar" just have only one R |
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer)
 
 ## 🚀 Featured Projects
 
@@ -37,7 +37,7 @@ I build clean systems and ship fast.
 | [RapidHLS](https://github.com/aliesm-com/RapidHLS) | HLS workflow tooling | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/RapidHLS?label=last%20update&style=for-the-badge) |
 | [perfometrics](https://github.com/aliesm-com/perfometrics) | Performance metrics toolkit | ![Last Update](https://img.shields.io/github/last-commit/aliesm-com/perfometrics?label=last%20update&style=for-the-badge) |
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:6366f1&height=3&section=header)
+![Divider](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=100&section=footer)
 
 ## 💻 Technologies & Tools
 
